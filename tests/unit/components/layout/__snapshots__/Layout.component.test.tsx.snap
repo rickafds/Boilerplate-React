@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Layout /> should match snapchat 1`] = `
+<Layout
+  style={
+    Object {
+      "minHeight": "100vh",
+    }
+  }
+>
+  <Content />
+</Layout>
+`;
